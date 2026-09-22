@@ -7,7 +7,7 @@ import Parallax from "../components/Parallax";
 import { posts } from "./posts";
 
 export const metadata: Metadata = {
-  title: "產地筆記 · 寶島鮮果",
+  title: "產地筆記 · 寶島鮮果666",
   description: "走訪台灣各地果園，紀錄屏東芒果、嘉南平原鳳梨芭樂、花東縱谷釋迦與蓮霧的產地故事。",
 };
 
