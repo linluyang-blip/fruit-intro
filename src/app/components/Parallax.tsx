@@ -3,7 +3,7 @@
 import { useEffect, useRef, type CSSProperties, type ReactNode } from "react";
 
 type ParallaxProps = {
-  children: ReactNode;
+  children?: ReactNode;
   /** 正值：由下往上進入視窗時較慢，負值則相反；數字越大位移越明顯。 */
   speed?: number;
   className?: string;
